@@ -5,7 +5,7 @@
   [Site pessoal](https://rodolfodantas.com.br)
   
   Information technology student at  University.university name : Universidade Federal do Rio Grande do Norte.
-  web and mobile development.Most used technologies :  :snake: Python  :mobile_phone_off: Flutter
+  Web and mobile development.Most used technologies :  :snake: Python  :mobile_phone_off: Flutter
   [personal website](https://rodolfodantas.com.br)
   
 
