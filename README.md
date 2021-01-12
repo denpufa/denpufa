@@ -5,7 +5,7 @@
   
   [Site pessoal](https://rodolfodantas.com.br)
   
-  Information technology student.university name : Universidade Federal do Rio Grande do Norte.
+  Information technology student,university name : Universidade Federal do Rio Grande do Norte.
   Web and mobile development.Most used technologies   :snake: Python  :mobile_phone_off: Flutter
   
   [personal website](https://rodolfodantas.com.br)
