@@ -1,7 +1,7 @@
 # :smiley: Rodolfo Dantas
   
   Information technology student,university name : Universidade Federal do Rio Grande do Norte.
-  Web and mobile development. But focus on mobile with flutter and kotlin.
+  Web and mobile development. But focus on mobile with flutter and backend with Python & Django
   <div>
     <a href="https://github.com/denpufa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denpufa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
