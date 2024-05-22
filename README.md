@@ -1,6 +1,6 @@
 # :smiley: Rodolfo Dantas
   
-  Information technology student,university name : Universidade Federal do Rio Grande do Norte.
+  Information technology graduate,university name : Universidade Federal do Rio Grande do Norte.
   Web and mobile development. But focus on mobile with flutter and backend with Python & Django
   <div>
     <a href="https://github.com/denpufa">
